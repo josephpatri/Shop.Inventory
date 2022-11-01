@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Inventory.Service", "Shop.Inventory.Service\Shop.Inventory.Service.csproj", "{BB81DA46-97DD-4D0F-9BEF-93959C488EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Inventory.UnitTest", "Shop.Inventory.UnitTest\Shop.Inventory.UnitTest.csproj", "{DAD6A6B2-F497-4ECA-839E-EE8D1AB0BBB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB81DA46-97DD-4D0F-9BEF-93959C488EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB81DA46-97DD-4D0F-9BEF-93959C488EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB81DA46-97DD-4D0F-9BEF-93959C488EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB81DA46-97DD-4D0F-9BEF-93959C488EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD6A6B2-F497-4ECA-839E-EE8D1AB0BBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD6A6B2-F497-4ECA-839E-EE8D1AB0BBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD6A6B2-F497-4ECA-839E-EE8D1AB0BBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD6A6B2-F497-4ECA-839E-EE8D1AB0BBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
