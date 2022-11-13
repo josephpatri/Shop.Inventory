@@ -21,6 +21,7 @@ public class ItemsController : ControllerBase
         catalogitemsrepo = _catalogitemsrepo;
     }
 
+    /// Add commment
     [HttpGet]
     public async Task<ActionResult<IEnumerable<InventoryItemDto>>> GetAsync(Guid userId)
     {
