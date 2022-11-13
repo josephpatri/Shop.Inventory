@@ -8,7 +8,7 @@ using Shop.Inventory.Service.Entities;
 namespace Shop.Inventory.Service.Controllers;
 
 [Controller]
-[Route("items")]
+[Route("inventory")]
 public class ItemsController : ControllerBase
 {
     private readonly IRepository<InventoryItem> inventoryitemsrepo;
